@@ -45,7 +45,7 @@ export class MyHttpClient extends BaseHttpClient {
 
 MyApiConfig must implements [ApiConfig](./src/api-config.ts). The following properties are optional, though:
 ```ts
-retries?: number; // default 1
+retries?: number; // default 0
 logRequests?: boolean; // default false
 contentType?: string; // default application/json
 ```

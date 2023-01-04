@@ -122,7 +122,7 @@ describe(BaseHttpClient.name, () => {
 			);
 
 			expectCallsLike(mockedHttpMethod, ['url value/the resource that I want']);
-			expectCallsLike(request.retry, [1]);
+			expectCallsLike(request.retry, [0]);
 			expectCallsLike(request.timeout, ['timeout value']);
 			expectCallsLike(request.set, ['content-type', 'default content type']);
 			expect(superdebug).toBeUndefined();
