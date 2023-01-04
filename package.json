@@ -1,7 +1,7 @@
 {
   "name": "ts-base-http-client",
   "description": "Base http client unifying some useful features from some other packages",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
