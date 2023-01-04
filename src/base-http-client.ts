@@ -52,7 +52,7 @@ export class BaseHttpClient {
 		const result = request[method](`${this.config.url}/${resource}`)
 			.agent(this.agent)
 			.timeout(this.config.timeout)
-			.retry(this.config.retries || 1)
+			.retry(this.config.retries ?? 0)
 			.set('content-type', contentType);
 
 		return this.config.logRequests
