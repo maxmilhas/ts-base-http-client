@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/maxmilhas/ts-base-http-client/compare/v0.1.1...v0.2.0) (2023-07-31)
+
+
+### Features
+
+* adding getErrorMessage helper ([e302d6e](https://github.com/maxmilhas/ts-base-http-client/commit/e302d6e0adcf32eee45ecdd7bdda7606dc9372e0))
+
 ## [0.1.1](https://github.com/maxmilhas/ts-base-http-client/compare/v0.1.0...v0.1.1) (2023-01-04)
 
 
