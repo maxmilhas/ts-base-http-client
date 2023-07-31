@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/maxmilhas/ts-base-http-client/compare/v0.2.0...v0.2.1) (2023-07-31)
+
+
+### Bug Fixes
+
+* fixing publishing ([43899e9](https://github.com/maxmilhas/ts-base-http-client/commit/43899e97e07d1c903b16e55a010bede0299f6e1d))
+
 # [0.2.0](https://github.com/maxmilhas/ts-base-http-client/compare/v0.1.1...v0.2.0) (2023-07-31)
 
 
