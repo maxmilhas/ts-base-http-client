@@ -1,10 +1,10 @@
-[![Actions Status](https://github.com/maxmilhas-org/ts-base-http-client/workflows/build/badge.svg)](https://github.com/maxmilhas-org/ts-base-http-client/actions)
-[![Actions Status](https://github.com/maxmilhas-org/ts-base-http-client/workflows/test/badge.svg)](https://github.com/maxmilhas-org/ts-base-http-client/actions)
-[![Actions Status](https://github.com/maxmilhas-org/ts-base-http-client/workflows/lint/badge.svg)](https://github.com/maxmilhas-org/ts-base-http-client/actions)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/65e41e3018643f28168e/test_coverage)](https://codeclimate.com/github/maxmilhas-org/ts-base-http-client/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/65e41e3018643f28168e/maintainability)](https://codeclimate.com/github/maxmilhas-org/ts-base-http-client/maintainability)
-[![Packages](https://david-dm.org/maxmilhas-org/ts-base-http-client.svg)](https://david-dm.org/maxmilhas-org/ts-base-http-client)
-[![npm version](https://badge.fury.io/js/%40maxmilhas-org%2Fts-base-http-client.svg)](https://badge.fury.io/js/%40maxmilhas-org%2Fts-base-http-client)
+[![Actions Status](https://github.com/maxmilhas/ts-base-http-client/workflows/build/badge.svg)](https://github.com/maxmilhas/ts-base-http-client/actions)
+[![Actions Status](https://github.com/maxmilhas/ts-base-http-client/workflows/test/badge.svg)](https://github.com/maxmilhas/ts-base-http-client/actions)
+[![Actions Status](https://github.com/maxmilhas/ts-base-http-client/workflows/lint/badge.svg)](https://github.com/maxmilhas/ts-base-http-client/actions)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/65e41e3018643f28168e/test_coverage)](https://codeclimate.com/github/maxmilhas/ts-base-http-client/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/65e41e3018643f28168e/maintainability)](https://codeclimate.com/github/maxmilhas/ts-base-http-client/maintainability)
+[![Packages](https://david-dm.org/maxmilhas/ts-base-http-client.svg)](https://david-dm.org/maxmilhas/ts-base-http-client)
+[![npm version](https://badge.fury.io/js/%40maxmilhas%2Fts-base-http-client.svg)](https://badge.fury.io/js/%40maxmilhas%2Fts-base-http-client)
 
 This project offers a base http client with standardized parameters, ready to be extended or injected
 

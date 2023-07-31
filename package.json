@@ -61,11 +61,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxmilhas-org/ts-base-http-client.git"
+    "url": "https://github.com/maxmilhas/ts-base-http-client.git"
   },
-  "homepage": "https://github.com/maxmilhas-org/ts-base-http-client#readme",
+  "homepage": "https://github.com/maxmilhas/ts-base-http-client#readme",
   "bugs": {
-    "url": "https://github.com/maxmilhas-org/ts-base-http-client/issues"
+    "url": "https://github.com/maxmilhas/ts-base-http-client/issues"
   },
   "keywords": [],
   "license": "MIT",
